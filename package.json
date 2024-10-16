@@ -1,0 +1,36 @@
+{
+  "name": "hera",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore",
+    "format": "prettier --write src/"
+  },
+  "dependencies": {
+    "@fancyapps/ui": "^5.0.36",
+    "@vueform/slider": "^2.1.10",
+    "@vuepic/vue-datepicker": "^9.0.3",
+    "axios": "^1.7.7",
+    "bootstrap": "^5.3.3",
+    "date-fns": "^4.1.0",
+    "pinia": "^2.1.7",
+    "pinia-plugin-persistedstate": "^4.0.0",
+    "vue": "^3.4.29",
+    "vue-currency-input": "^3.1.0",
+    "vue-router": "^4.3.3",
+    "vue3-carousel": "^0.3.3"
+  },
+  "devDependencies": {
+    "@rushstack/eslint-patch": "^1.8.0",
+    "@vitejs/plugin-vue": "^5.0.5",
+    "@vue/eslint-config-prettier": "^9.0.0",
+    "eslint": "^9.10.0",
+    "eslint-plugin-vue": "^9.23.0",
+    "prettier": "^3.2.5",
+    "vite": "^5.4.9"
+  }
+}

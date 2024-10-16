@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.856" y1="0.784" x2="0.074" y2="0.251" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3be4b4"/>
+      <stop offset="1" stop-color="#1ba9b3"/>
+    </linearGradient>
+    <filter id="Rectangle_9092">
+      <feOffset dy="-1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.161" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="ic_sell_home_48" transform="translate(-32 -217)">
+    <g data-type="innerShadowGroup">
+      <rect id="Rectangle_9092-2" data-name="Rectangle 9092" width="48" height="48" rx="24" transform="translate(32 217)" fill="url(#linear-gradient)"/>
+      <g transform="matrix(1, 0, 0, 1, 32, 217)" filter="url(#Rectangle_9092)">
+        <rect id="Rectangle_9092-3" data-name="Rectangle 9092" width="48" height="48" rx="24" fill="#fff"/>
+      </g>
+    </g>
+    <g id="sale-discount-svgrepo-com" transform="translate(47.956 225)">
+      <g id="Group_9125" data-name="Group 9125" transform="translate(0 18.096)">
+        <g id="Group_9124" data-name="Group 9124">
+          <path id="Path_9914" data-name="Path 9914" d="M130.84,291.954a1.625,1.625,0,0,0-1.449-.9h-1.049a2.231,2.231,0,0,0-2.112-1.519h-8.311a2.231,2.231,0,0,0-2.112,1.519h-1.049a1.614,1.614,0,0,0-1.276,2.6l6.953,8.979a2.073,2.073,0,0,0,3.278,0l6.953-8.979A1.625,1.625,0,0,0,130.84,291.954Zm-8.765,9.359-6.319-8.159h.988A1.052,1.052,0,0,0,117.8,292.1v-.343a.124.124,0,0,1,.124-.124h8.311a.124.124,0,0,1,.124.124v.343a1.052,1.052,0,0,0,1.052,1.052h.988Z" transform="translate(-113.146 -289.532)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_9127" data-name="Group 9127" transform="translate(3.867)">
+        <g id="Group_9126" data-name="Group 9126">
+          <path id="Path_9915" data-name="Path 9915" d="M180.976,6.692V3.732c1.318.1,1.7.75,2.373.75.892,0,1.257-1.115,1.257-1.663,0-1.4-2.373-1.724-3.63-1.764V.548c0-.284-.385-.548-.771-.548-.446,0-.771.264-.771.548v.568c-2.15.3-4.056,1.541-4.056,4.117,0,2.6,2.19,3.468,4.056,4.178V12.7c-1.5-.264-2.19-1.46-3.042-1.46-.771,0-1.379,1.014-1.379,1.7,0,1.3,1.987,2.555,4.421,2.636v.507c0,.284.324.548.771.548.385,0,.771-.264.771-.548v-.588a4.31,4.31,0,0,0,4-4.421C184.971,8.335,182.822,7.382,180.976,6.692Zm-1.339-.487c-.771-.324-1.3-.69-1.3-1.278,0-.487.385-.953,1.3-1.136Zm1.136,6.469V9.958c.73.345,1.237.771,1.237,1.44C182.011,12.128,181.463,12.513,180.773,12.675Z" transform="translate(-175.014)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg id="ic_Hera_logo_48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-1.091" y1="0.5" x2="1.985" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f4c22e"/>
+      <stop offset="0" stop-color="#ecc33e"/>
+      <stop offset="0.32" stop-color="#fcf38f"/>
+      <stop offset="0.68" stop-color="#dcac26"/>
+      <stop offset="1" stop-color="#faf399"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-1.115" x2="0.962" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="0" x2="1" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Path_10004" data-name="Path 10004" d="M50.855,50.551V41.56H41.73V54.874A11.885,11.885,0,0,1,50.855,50.551Z" transform="translate(-31.709 -31.58)" fill="url(#linear-gradient)"/>
+    <path id="Path_10005" data-name="Path 10005" d="M120.23,107.2v9h9.125V102.88A11.849,11.849,0,0,1,120.23,107.2Z" transform="translate(-91.357 -78.174)" fill="url(#linear-gradient-2)"/>
+    <path id="Path_10006" data-name="Path 10006" d="M41.647,101.319h9.125V95c0-3.573.706-5.226,2.375-7.2a10.477,10.477,0,0,1,4.289-3.009c1.071-.49.982-1.268-.884-1.422S45.8,82.835,42.6,89.885a16.957,16.957,0,0,0-.961,6.313C41.6,98.982,41.647,101.319,41.647,101.319Z" transform="translate(-31.628 -63.297)" fill="#ffe443"/>
+    <path id="Path_10007" data-name="Path 10007" d="M24,48A24,24,0,1,1,48,24,24,24,0,0,1,24,48ZM24,1.354A22.648,22.648,0,1,0,46.648,24,22.648,22.648,0,0,0,24,1.354Z" fill="url(#linear-gradient-3)"/>
+    <path id="Path_10008" data-name="Path 10008" d="M106.026,41.56H96.9v6.325c0,3.573-.706,5.226-2.375,7.2A10.477,10.477,0,0,1,90.237,58.1c-1.071.49-.982,1.268.884,1.422s10.766.521,13.952-6.532a17.308,17.308,0,0,0,.961-6.313C106.084,43.892,106.026,41.56,106.026,41.56Z" transform="translate(-68.042 -31.58)" fill="#ffe443"/>
+  </g>
+</svg>

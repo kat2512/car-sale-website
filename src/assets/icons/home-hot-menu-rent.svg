@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.078" y1="0.224" x2="0.911" y2="0.759" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f16818"/>
+      <stop offset="1" stop-color="#ef8a48"/>
+    </linearGradient>
+    <filter id="Rectangle_9090">
+      <feOffset dy="-1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.161" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="ic_rent_home_48" transform="translate(-32 -119)">
+    <g data-type="innerShadowGroup">
+      <rect id="Rectangle_9090-2" data-name="Rectangle 9090" width="48" height="48" rx="24" transform="translate(32 119)" fill="url(#linear-gradient)"/>
+      <g transform="matrix(1, 0, 0, 1, 32, 119)" filter="url(#Rectangle_9090)">
+        <rect id="Rectangle_9090-3" data-name="Rectangle 9090" width="48" height="48" rx="24" fill="#fff"/>
+      </g>
+    </g>
+    <g id="key-svgrepo-com_outline" transform="translate(44 131)">
+      <path id="Path_9912" data-name="Path 9912" d="M18.417,17.1a7.552,7.552,0,1,0-7.583-7.552,6.849,6.849,0,0,0,.882,3.337l-9.17,9.133a1.673,1.673,0,0,0,0,2.459L3.6,25.535a1.669,1.669,0,0,0,2.293,0L7.13,24.305a2,2,0,1,0,3-2.634l.353-.351c1.693,1.686,3.174.7,3.7,0a2.179,2.179,0,0,0,0-2.459c-.353-.7-1.058-.7-.176-1.581l1.058-1.054A6.177,6.177,0,0,0,18.417,17.1Z" transform="translate(-2 -2)" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_9913" data-name="Path 9913" d="M18.767,8.733A2.645,2.645,0,1,1,16.122,6.1,2.64,2.64,0,0,1,18.767,8.733Z" transform="translate(0.295 -1.18)" fill="none" stroke="#fff" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

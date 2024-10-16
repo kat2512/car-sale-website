@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <filter id="Rectangle_9097">
+      <feOffset dy="-1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.161" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="ic_arrowncircle_right" transform="translate(-153 -157)">
+    <g data-type="innerShadowGroup">
+      <rect id="Rectangle_9097-2" data-name="Rectangle 9097" width="24" height="24" rx="12" transform="translate(153 157)" fill="#fff" opacity="0.1"/>
+      <g transform="matrix(1, 0, 0, 1, 153, 157)" filter="url(#Rectangle_9097)">
+        <rect id="Rectangle_9097-3" data-name="Rectangle 9097" width="24" height="24" rx="12" fill="#fff" opacity="0.1"/>
+      </g>
+    </g>
+    <g id="arrow_upward_black_24dp" transform="translate(174 160) rotate(90)">
+      <path id="Path_9916" data-name="Path 9916" d="M0,0H18V18H0Z" fill="none"/>
+      <path id="Path_9917" data-name="Path 9917" d="M4,10l1.057,1.057L9.25,6.873V16h1.5V6.873l4.185,4.192L16,10,10,4Z" transform="translate(-1 -1)"/>
+    </g>
+  </g>
+</svg>

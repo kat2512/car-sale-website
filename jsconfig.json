@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+    "lib": ["es6", "dom"] 
+  },
+  "exclude": ["node_modules", "dist"]
+}

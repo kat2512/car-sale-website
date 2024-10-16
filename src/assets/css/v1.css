@@ -1,0 +1,184 @@
+#page-rent-detail .detail-info {
+    border-radius: 10px;
+}
+
+#page-rent-detail .detail-info .content-area {
+    height: 87px;
+    overflow: hidden;
+}
+
+#page-rent-detail .detail-info .content-area .view-all {
+    background: transparent linear-gradient(180deg, rgb(0 0 0 / 0%) 0%, var(--bs-black) 100%) 0% 0%;
+    border-radius: 0px 0px 10px 10px;
+    opacity: 1;
+    z-index: 1;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    height: 48px;
+}
+
+#page-rent-detail .price-info {
+    padding: 29px 16px;
+    border-radius: 10px;
+}
+
+#page-rent-detail .price-info .btn-warning {
+    padding: 12.5px 42px;
+    border-radius: 24px;
+}
+
+#page-buy-detail .detail-info {
+    border-radius: 10px;
+}
+
+#page-buy-detail .detail-info .content-area {
+    height: 336px;
+    overflow: hidden;
+}
+
+#page-buy-detail .detail-info .content-area .view-all {
+    background: transparent linear-gradient(180deg, rgb(0 0 0 / 0%) 0%, var(--bs-black) 100%) 0% 0%;
+    border-radius: 0px 0px 10px 10px;
+    opacity: 1;
+    z-index: 1;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    height: 48px;
+}
+
+#page-buy-detail .price-info {
+    border-radius: 10px;
+}
+
+#page-buy-detail .price-info .btn-warning {
+    padding: 12.5px 42px;
+    border-radius: 24px;
+}
+
+#page-buy-detail .para-info {
+    border-radius: 10px;
+}
+
+#page-buy-detail .para-content {
+    height: 192px;
+    overflow: hidden;
+}
+
+#page-buy-detail .para-content .view-all {
+    background: transparent linear-gradient(180deg, rgb(0 0 0 / 0%) 0%, var(--bs-black) 100%) 0% 0%;
+    border-radius: 0px 0px 10px 10px;
+    opacity: 1;
+    z-index: 1;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    height: 48px;
+}
+
+#page-buy-request .container {
+    max-width: 816px;
+}
+
+#page-buy-request .dp__input {
+    font-family:
+        Inter,
+        -apple-system,
+        BlinkMacSystemFont,
+        'Segoe UI',
+        Roboto,
+        Oxygen,
+        Ubuntu,
+        Cantarell,
+        'Fira Sans',
+        'Droid Sans',
+        'Helvetica Neue',
+        sans-serif;
+    font-size: var(--fs-14);
+    line-height: 17px;
+    font-weight: 400;
+}
+
+#page-buy-request .datepicker .dp__input_icon {
+    inset-inline-end: 10px;
+    inset-inline-start: unset;
+}
+
+#page-buy-request .datepicker .dp--clear-btn {
+    inset-inline-end: 30px;
+}
+
+#page-buy-request .datepicker .dp--clear-btn svg {
+    padding-left: 8px;
+    padding-right: 8px;
+    fill: var(--b4b4b4);
+}
+
+#page-buy-request form .btn-warning {
+    padding: 12.5px 80px;
+    border-radius: 24px;
+}
+
+#page-buy-request .car-img {
+    width: 80px;
+    height: 80px;
+    border-radius: 2px;
+}
+
+@media (max-width: 1199.98px) {}
+
+@media (max-width: 991.98px) {
+    #page-rent-detail .price-info {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        z-index: 2;
+        border-radius: 0;
+        padding: 16px;
+    }
+
+    #page-rent-detail .price-info .price span {
+        font-size: 22px;
+        line-height: 26px;
+    }
+
+    #page-rent-detail .price-info .brand {
+        margin-bottom: -20px;
+    }
+
+    #page-rent-detail .related-car {
+        margin-top: 24px;
+    }
+
+
+    #page-buy-detail .price-info {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        z-index: 2;
+        border-radius: 0;
+        padding: 16px;
+    }
+
+    #page-buy-detail .price-info .price span {
+        font-size: 22px;
+        line-height: 26px;
+    }
+
+    #page-buy-detail .price-info .brand {
+        margin-bottom: -20px;
+    }
+
+    #page-buy-detail .price-info .brand .car-name {
+        width: 100%;
+        font-size: 18px;
+        line-height: 21px;
+    }
+
+    #page-buy-detail .related-car {
+        margin-top: 24px;
+    }
+}
